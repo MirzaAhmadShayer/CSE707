@@ -2,6 +2,7 @@ Youtube Link :
 
 https://youtu.be/eomV8xTXYnE?list=PLooQutR0U2kD8T3Xy06PPwnc1v0aHfx3a
 
-Github Link:
+Submitter:
 
-https://github.com/MirzaAhmadShayer/CSE707/tree/main/submission1
+Name - Mirza Ahmad Shayer
+ID - 22273008
